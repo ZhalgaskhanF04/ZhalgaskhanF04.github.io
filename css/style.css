@@ -126,6 +126,7 @@ Mid Grey background color:  ebebeb
 
 
 html {
+    overflow: hidden;
     scroll-behavior: smooth;
 }
 
@@ -140,7 +141,6 @@ body{
 
     -webkit-font-smoothing: antialiased;
      -moz-osx-font-smoothing: grayscale;
-     scroll-behavior: smooth;
 }
 
 
